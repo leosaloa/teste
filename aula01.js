@@ -4,6 +4,6 @@ function teste(){
 	if (entrada == 'sim' || entrada == 's' ||  entrada == 'sou') {
 		alert ('Se lasco, '+ nome);  
 	} else {
-    	alert ('OH vida boa em  '+nome+'!'); 
-}
+    	alert ('OH vida boa em '+nome+'!'); 
+	}
 }
